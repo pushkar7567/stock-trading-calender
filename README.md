@@ -1,7 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-To see the finished project, go to https://bit.ly/react-stock-calendar
-
 ### To start, run `yarn` to rebuild the dependencies and then run `yarn start` to start the development server!
 
 ### Installation steps I've already done to create this repository (assuming we start from a fresh machine):
