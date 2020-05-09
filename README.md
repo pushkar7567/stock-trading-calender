@@ -2,10 +2,6 @@
 
 A web app made in ReactJS that can track stocks of up-to 6 companies and shows their tickers in monthly calender view. 
 
-Created during **Microsoft x Azure Workshop: Intro to ReactJS**.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 To see the finished project, go to https://bit.ly/react-stock-calendar
 
 ### Preview
